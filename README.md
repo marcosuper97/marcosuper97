@@ -4,8 +4,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosuper97&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcosuper97&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosuper97&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9)
 
 ---
