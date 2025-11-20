@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Android Developer from Saint-Petersburg
+## 🚀 Android Developer from "AUCHAN-TEH"
 
 ## 🧑‍💻 About Me
 
