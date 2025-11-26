@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Android Developer from "AUCHAN-TEH"
+## 🚀 Android Developer from "AUCHAN-TECH"
 
 ## 🧑‍💻 About Me
 
